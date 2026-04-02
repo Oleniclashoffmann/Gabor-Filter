@@ -159,8 +159,6 @@ git clone https://github.com/<your-username>/Gabor-Filter.git
 #    Press F5 (Debug) or Ctrl+F5 (Release) in Visual Studio.
 ```
 
-> **Tip:** To port to macOS / Linux, create a `CMakeLists.txt` and link against the same OpenCV modules.
-
 ---
 
 ## Configuration Parameters
