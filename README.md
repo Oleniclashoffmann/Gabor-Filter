@@ -135,8 +135,6 @@ Gabor-Filter/
 ### `save_file` (`.h` / `.cpp`)
 - Appends per-frame results (image name, tip coordinates, computation time, estimated angle) to text files for offline error analysis.
 
----
-
 
 ---
 
