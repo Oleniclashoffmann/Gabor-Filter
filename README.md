@@ -137,13 +137,6 @@ Gabor-Filter/
 
 ---
 
-## Prerequisites
-
-| Requirement | Details |
-|---|---|
-| **Compiler** | MSVC 2019+ (or any C++17-compatible compiler) |
-| **OpenCV** | Version 4.x — core, imgproc, imgcodecs, highgui modules |
-| **IDE** | Visual Studio 2019 / 2022 (solution file included) |
 
 ---
 
