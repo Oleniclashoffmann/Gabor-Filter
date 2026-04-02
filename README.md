@@ -6,7 +6,7 @@
 
 ## Problem Statement
 
-During minimally invasive procedures such as biopsies or regional anaesthesia, clinicians rely on ultrasound imaging to guide needles to a target. Accurate, automated detection of the needle's axis and tip position in real-time is critical for patient safety, yet challenging due to low signal-to-noise ratios, speckle noise, and varying tissue backgrounds. This project implements a complete image-processing pipeline that enhances needle visibility, segments the needle from background tissue, robustly estimates its axis, and localises the tip — all within a single-frame processing loop suitable for real-time use.
+Accurate needle tip localization during ultrasound-guided medical procedures (e.g. biopsies, regional anesthesia) is critical for patient safety. However, needles are often poorly visible in ultrasound images due to noise, speckle artifacts, and tissue interference. Manual tracking by clinicians is error-prone and limits procedural efficiency. This project addresses the challenge by implementing a **fully automated, multi-stage image processing pipeline** that enhances needle visibility, detects the needle trajectory, and precisely estimates the tip position — all in real time.
 
 ---
 
