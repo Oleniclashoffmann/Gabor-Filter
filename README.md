@@ -197,11 +197,7 @@ The following parameters can be tuned directly in the source code:
 
 ## Context
 
-This project was developed as the practical component of a **Bachelor's thesis** focused on **needle detection in medical ultrasound images**. The dataset consists of ultrasound frames of liver tissue with inserted biopsy needles at various insertion angles. The goal was to build a lightweight, real-time-capable detection pipeline that could eventually be integrated into an ultrasound guidance system. The algorithm was benchmarked on 100 sequential frames per dataset, measuring:
-
-- **Needle angle accuracy** — estimated vs. ground-truth insertion angle.
-- **Tip localisation error** — Euclidean distance between estimated and actual tip position.
-- **Computational time** — per-frame processing duration.
+This project was developed as part of a **Bachelor's thesis** on automated needle detection in ultrasound imaging. The algorithm is designed for real-time processing of sequential ultrasound frames and outputs the estimated needle tip position, axis angle, and per-frame computation time.
 
 ---
 
