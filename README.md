@@ -212,4 +212,4 @@ This project was developed as part of a **Bachelor's thesis** on automated needl
 
 ## License
 
-This project is provided for **educational and portfolio purposes**. No explicit license is applied. If you wish to use or adapt this code, please contact the author.
+This project was developed as part of a Bachelor's thesis. Feel free to use it as a reference or starting point for your own work.
