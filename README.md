@@ -79,10 +79,10 @@ Input Image
 
 | Layer | Technology |
 |---|---|
-| Language | C++17 |
-| Computer Vision | OpenCV 4.x |
-| Build System | Microsoft Visual Studio (`.vcxproj` / `.sln`) |
-| Platform | Windows (readily portable to macOS / Linux with CMake) |
+| Technology | Purpose |
+|---|---|
+| **C++17** | Core implementation language |
+| **OpenCV** | Image processing, connected components, line drawing, matrix operations |
 
 ---
 
