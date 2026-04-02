@@ -77,8 +77,6 @@ Input Image
 
 ## Tech Stack
 
-| Layer | Technology |
-|---|---|
 | Technology | Purpose |
 |---|---|
 | **C++17** | Core implementation language |
