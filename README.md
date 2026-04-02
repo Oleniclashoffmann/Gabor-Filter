@@ -1,6 +1,6 @@
 # Gabor-Filter Needle Detection
 
-**Real-time needle axis and tip detection in medical ultrasound images using Gabor filtering, entropy-tuned Otsu thresholding, and MLESAC robust estimation — developed as part of a Bachelor's thesis in medical image processing.**
+> **Bachelor's Thesis Project** — 2 of 3 Real-time needle axis and tip estimation in ultrasound images using a ray-based statistical filtering algorithm.
 
 ---
 
