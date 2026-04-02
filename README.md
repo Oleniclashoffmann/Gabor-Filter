@@ -1,6 +1,6 @@
 # Gabor-Filter Needle Detection
 
-> **Bachelor's Thesis Project** — 2 of 3 Real-time needle axis and tip estimation in ultrasound images using a ray-based statistical filtering algorithm.
+> **Bachelor's Thesis Project** — 2 of 3 Real-time needle axis and tip estimation in ultrasound images using a Gabor Filter and MLESAC algorithm architecture for the Axis Estimation.
 
 ---
 
